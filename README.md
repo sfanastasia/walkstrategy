@@ -2,7 +2,7 @@
 
 ## San Francisco Science Fair 2023
 
-First Place in 7th grade Physical Science
+**First Place** in 7th grade Physical Science
 
 **Walking through the City: Which strategy is faster?** by Anastasia Paramonova
 
@@ -28,4 +28,8 @@ Structured as a Julia package. Analysis performed in [walksim_explore.jl](./Walk
     using WalkingSim
     import Pkg
     Pkg.test()
+
+## Science Fair submission
+
+Submitted [report](./SF_Science_Fair_2023_Report.pdf) and presented [poster](./SF_Science_Fair_2023_Poster_pages.pdf).
 
